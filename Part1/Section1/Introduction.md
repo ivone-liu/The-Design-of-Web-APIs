@@ -1,14 +1,16 @@
-This chapter covers
-- What an API is
-- Why API design matters
-- What designing an API means
+- 本章主要涵盖了
+  - 什么是API
+  - API设计相关事项
+  - 设计API到底意味着什么
 
 
-Web application programming interfaces (APIs) are an essential pillar of our connected world. Software uses these interfaces to communicate—from applications on smartphones to deeply hidden backend servers, APIs are absolutely everywhere.
 
-Whether these are seen as simple technical interfaces or products in their own right, whole systems, whatever their size and purpose, rely on them. So do entire companies and organizations from tech startups and internet giants to non-tech small and medium-sized enterprises, big corporations, and government entities.
-If APIs are an essential pillar of our connected world, API design is its foundation.
+网页应用程序接口对于我们相互连通的世界来说是一个顶梁柱的意味。软件通过这些接口相互连接 — 智能手机应用到背后到背后支持的服务器，API可以说是无处不在。
 
-When building and evolving an API-based system, whether it is visible to anyone or deeply hidden, whether it creates a single or many APIs, design must always be a major concern. The success or failure of such a system depends directly on the quality of the design of all its APIs.
+从整个系统角度来讲，无论产品的规模或是市场方向，无论这些产品是被视为简单的技术接口还是其本身的产品，都是依赖API来实现的。从科技创业公司、互联网巨头到非科技中小企业、大企业、政府实体，整个公司和组织也是如此。
 
-But what does designing APIs really mean? And what do you have to learn to design APIs? To answer these questions, we need to consider what an API is and for whom it’s designed, and we also need to realize that designing an API is more than just designing a programming interface for applications.
+如果把API比作是连接世界的柱子，那么API设计就是这根柱子的基石。
+
+当在构建或是优化基于API开发的系统时，无论是API是可视的还是隐藏的，无论是单一还是一组API，如何设计永远应该放在思考的首位。这一类系统的成功与否完全取决于所有API的设计质量。
+
+那么，设计API到底意味着什么？对于设计API你需要去学习什么？要去回答这些问题，我们首先要去思考的是什么是API以及为谁去设计API，而且同样需要意识到设计一个API并不仅仅是设计一个应用程序的接口那么简单。
