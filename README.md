@@ -6,4 +6,4 @@
 
 
 
-![COVER](/Users/ivone/Documents/code/The-Design-of-Web-APIs/assets/images/cover.jpg)
+![COVER](./assets/images/cover.jpg)
